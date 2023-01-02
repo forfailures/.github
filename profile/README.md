@@ -2,7 +2,7 @@
 
 A collection of resources for programmers who are secretly imposters.
 
-![Frits Holm aka the Duke of Colachine](Frits_Vilhelm_Holm_1916.jpg)
+![Frits Holm aka the Duke of Colachine](public/Frits_Vilhelm_Holm_1916.jpg)
 
 Dedicated to the memory of [Frits Holm](https://en.wikipedia.org/wiki/Frits_Holm),
 aka The Duke of Colachine aka The Prince of Colachine; "collector", adventurer, fraud, imposter. One of the
