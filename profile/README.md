@@ -5,8 +5,7 @@ A collection of resources for programmers who are secretly imposters.
 ![Frits Holm aka the Duke of Colachine](https://raw.githubusercontent.com/forimposters/.github/main/profile/Frits_Vilhelm_Holm_1916.jpg)
 
 Dedicated to the memory of [Frits Holm](https://en.wikipedia.org/wiki/Frits_Holm),
-aka The Duke of Colachine aka The Prince of Colachine; "collector", adventurer, fraud, imposter. One of the
-stupidest imposters to ever live.
+aka The Duke of Colachine aka The Prince of Colachine; "collector", adventurer, fraud, imposter. 
 
 Travelling to China at the dawn of the 20th century, Holm ventured to "purchase"
 (steal) the famous Nestorian Monolith, an early record of Christianity in China.
@@ -15,7 +14,7 @@ reacted by taking it and placing it in one of their museums.
 
 Thwarted in his plans, the Duke of the nonexistent Duchy of Colachine decided
 instead of create a copy of the item, and ship it to New York, with the plan
-of selling it to the Museum of Modern Art. 
+of selling it to the Metropolitan Museum. 
 
 The New York press lauded "Count Fritz Von Holm, a relative of the Danish King"
 on his triumphal arrival with the two-ton monolith. Unfortunately, Sir Purdon
