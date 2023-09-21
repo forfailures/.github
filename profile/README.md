@@ -1,6 +1,6 @@
-# For Imposters
+# For Failures
 
-A collection of resources for programmers who are secretly imposters.
+A collection of resources for programmers to learn how to harness the power of failure.
 
 ![Frits V. Holm aka the Duke of Colachine](https://raw.githubusercontent.com/forimposters/.github/main/profile/Frits_Vilhelm_Holm_1916.jpg)
 
